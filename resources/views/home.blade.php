@@ -7,10 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    @include('header')
+ 
 
-<h1> welcome </h1>
+<h1>  </h1>
 
-@include('footer')
 </body>
 </html>
